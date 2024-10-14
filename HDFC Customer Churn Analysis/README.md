@@ -1,6 +1,6 @@
 
-<div>
-  <img src="https://github.com/user-attachments/assets/d7c2c803-0fb2-49ed-87d8-3334f0400f37" alt="HDFC Logo" width="80" height="50" style="float: left; margin-right: 10 px;">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d7c2c803-0fb2-49ed-87d8-3334f0400f37" alt="HDFC Logo" width="150" height="80" style="float: left; margin-right: 10 px;">
   <p> <b>HDFC Bank</b> - Leading provider of financial services, offering a wide range of banking products and financial solutions.</p>
 </div>
 

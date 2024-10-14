@@ -67,5 +67,12 @@ If you plot Month on x-axis, make sure the months are sorted from Jan-Dec.
 9.	Create a QoQ Growth using line chart
 10.	 Create a MoM Growth using line chart
 
+- Dashboard Interaction <a href = "https://github.com/jeevan499/Power-Bi-Projects-/blob/main/Ice%20Cream%20Sales%20Analysis/Ice%20Cream%20Dashboard_page-0001.jpg">View Dashboard</a>
+
+### Dashboard
+
+![Ice Cream Dashboard_page-0001](https://github.com/user-attachments/assets/c35ea58e-3b65-417e-90ff-5a74194ebb3d)
+
+
 
 

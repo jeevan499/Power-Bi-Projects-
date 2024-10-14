@@ -1,0 +1,6 @@
+RegulatoryComplianceID,ComplianceStatus,RegulatoryBody,ComplianceDetails
+1,Compliant,FDA,Full compliance
+2,Non-Compliant,EMA,Violations found
+3,Pending Review,Health Canada,Under review
+4,Compliant with Conditions,TGA,Compliance with specific conditions
+5,Not Applicable,MHRA,Not subject to regulations

@@ -1,0 +1,201 @@
+CustomerID,FirstName,LastName,Age,Gender,Country,OtherCustomerInfo
+1,Bob,Smith,76,Male,Australia,Frequent Buyer
+2,Bob,Johnson,56,Male,Australia,New Customer
+3,Bob,Smith,74,Female,Australia,Frequent Buyer
+4,David,Jones,54,Male,Australia,Frequent Buyer
+5,John,Johnson,51,Male,Australia,Preferred Customer
+6,John,Brown,67,Male,Australia,Preferred Customer
+7,Alice,Brown,45,Male,Australia,New Customer
+8,Jane,Johnson,31,Female,Australia,Frequent Buyer
+9,Alice,Brown,69,Female,Australia,New Customer
+10,Bob,Williams,75,Male,Australia,Frequent Buyer
+11,Bob,Brown,45,Male,Australia,Frequent Buyer
+12,Bob,Jones,47,Male,Australia,Preferred Customer
+13,Alice,Jones,47,Male,Australia,Frequent Buyer
+14,Jane,Johnson,74,Male,Australia,Preferred Customer
+15,Jane,Brown,44,Male,Australia,Frequent Buyer
+16,Alice,Johnson,19,Male,Australia,New Customer
+17,David,Smith,54,Male,Australia,New Customer
+18,Bob,Williams,30,Male,Australia,Frequent Buyer
+19,Alice,Johnson,56,Female,United States,Preferred Customer
+20,Alice,Johnson,59,Female,Germany,Preferred Customer
+21,Carol,Johnson,45,Other,Germany,Preferred Customer
+22,Carol,Johnson,37,Female,Australia,Frequent Buyer
+23,John,Jones,56,Male,United Kingdom,New Customer
+24,John,Williams,72,Male,United States,Preferred Customer
+25,Alice,Smith,67,Female,France,New Customer
+26,Carol,Williams,35,Male,Australia,Preferred Customer
+27,Bob,Johnson,51,Male,France,Frequent Buyer
+28,John,Jones,74,Male,United States,Frequent Buyer
+29,Bob,Smith,65,Male,United States,Preferred Customer
+30,Bob,Johnson,62,Male,Canada,New Customer
+31,John,Johnson,34,Male,Canada,Preferred Customer
+32,David,Brown,55,Other,Australia,Preferred Customer
+33,Alice,Williams,40,Female,Australia,Preferred Customer
+34,Carol,Williams,48,Other,France,New Customer
+35,John,Williams,26,Male,Australia,Preferred Customer
+36,Jane,Brown,52,Other,United States,Preferred Customer
+37,Jane,Jones,42,Other,Germany,Frequent Buyer
+38,Bob,Jones,56,Other,Canada,New Customer
+39,Jane,Jones,47,Female,France,Frequent Buyer
+40,Bob,Smith,22,Male,France,Frequent Buyer
+41,David,Brown,45,Other,France,Preferred Customer
+42,David,Brown,70,Female,Germany,Preferred Customer
+43,David,Jones,24,Other,United Kingdom,Preferred Customer
+44,David,Jones,59,Other,Canada,Frequent Buyer
+45,David,Jones,71,Male,France,New Customer
+46,Carol,Brown,73,Female,United Kingdom,New Customer
+47,John,Jones,59,Other,United Kingdom,Frequent Buyer
+48,John,Williams,59,Male,Australia,Frequent Buyer
+49,Carol,Jones,74,Male,France,New Customer
+50,Bob,Williams,55,Male,United States,Preferred Customer
+51,David,Johnson,36,Female,Germany,New Customer
+52,Alice,Johnson,77,Female,France,Frequent Buyer
+53,Jane,Brown,42,Female,United Kingdom,Preferred Customer
+54,David,Smith,35,Female,France,Preferred Customer
+55,Carol,Johnson,70,Female,Australia,New Customer
+56,Jane,Brown,64,Female,Australia,Preferred Customer
+57,Alice,Brown,43,Female,Australia,Frequent Buyer
+58,Bob,Williams,62,Female,Australia,New Customer
+59,David,Williams,37,Female,Australia,Frequent Buyer
+60,Jane,Jones,19,Female,Australia,Frequent Buyer
+61,Bob,Johnson,47,Female,Australia,Frequent Buyer
+62,David,Williams,39,Female,Australia,New Customer
+63,Alice,Smith,77,Female,Australia,Frequent Buyer
+64,Bob,Brown,59,Female,Australia,Frequent Buyer
+65,Alice,Jones,72,Female,Australia,Preferred Customer
+66,John,Williams,51,Female,Australia,Preferred Customer
+67,Jane,Williams,78,Female,Australia,Frequent Buyer
+68,Jane,Williams,52,Female,Australia,Preferred Customer
+69,Alice,Johnson,79,Female,Australia,New Customer
+70,Alice,Williams,22,Female,Germany,Preferred Customer
+71,Carol,Brown,74,Male,United Kingdom,New Customer
+72,Alice,Williams,32,Male,United States,New Customer
+73,Alice,Smith,56,Male,United Kingdom,Preferred Customer
+74,Bob,Williams,32,Male,Germany,Preferred Customer
+75,Bob,Jones,45,Male,Canada,New Customer
+76,Jane,Jones,29,Male,France,Frequent Buyer
+77,Bob,Smith,20,Male,United States,Frequent Buyer
+78,Bob,Jones,27,Male,United States,Frequent Buyer
+79,Jane,Johnson,53,Male,United Kingdom,Frequent Buyer
+80,David,Brown,24,Male,United Kingdom,Preferred Customer
+81,John,Brown,60,Male,Canada,Preferred Customer
+82,Carol,Johnson,34,Male,United States,New Customer
+83,Bob,Jones,37,Other,Germany,New Customer
+84,John,Smith,64,Female,Germany,Frequent Buyer
+85,Carol,Smith,66,Female,Australia,New Customer
+86,Jane,Brown,63,Male,Germany,Preferred Customer
+87,Bob,Smith,70,Male,France,Frequent Buyer
+88,David,Johnson,45,Female,France,Frequent Buyer
+89,Bob,Brown,29,Other,Australia,Frequent Buyer
+90,Alice,Williams,35,Female,Australia,New Customer
+91,Bob,Johnson,74,Male,United Kingdom,Frequent Buyer
+92,Bob,Johnson,62,Female,Germany,Preferred Customer
+93,John,Smith,68,Other,Australia,Frequent Buyer
+94,John,Smith,54,Other,Germany,New Customer
+95,Bob,Smith,29,Male,Germany,New Customer
+96,David,Williams,25,Male,Germany,Frequent Buyer
+97,Carol,Johnson,79,Male,Canada,Frequent Buyer
+98,Jane,Jones,57,Male,Canada,New Customer
+99,David,Brown,58,Male,Canada,Preferred Customer
+100,John,Smith,77,Male,Canada,Preferred Customer
+101,David,Smith,68,Male,Canada,Frequent Buyer
+102,David,Johnson,36,Male,Canada,Frequent Buyer
+103,Carol,Williams,53,Male,Canada,Frequent Buyer
+104,David,Smith,23,Male,Canada,New Customer
+105,Bob,Williams,72,Male,Canada,New Customer
+106,Alice,Williams,45,Male,Canada,Frequent Buyer
+107,John,Jones,61,Male,Canada,New Customer
+108,David,Williams,18,Male,Canada,New Customer
+109,John,Jones,67,Male,Canada,Preferred Customer
+110,Alice,Brown,36,Male,Canada,New Customer
+111,Bob,Williams,66,Male,Canada,Frequent Buyer
+112,John,Brown,20,Male,Canada,Preferred Customer
+113,Bob,Williams,53,Female,Canada,New Customer
+114,Carol,Jones,44,Male,Canada,Preferred Customer
+115,John,Jones,63,Male,Canada,New Customer
+116,Bob,Brown,23,Other,Germany,New Customer
+117,Carol,Johnson,47,Male,United States,Preferred Customer
+118,David,Johnson,54,Other,France,New Customer
+119,John,Johnson,44,Male,United Kingdom,Frequent Buyer
+120,Jane,Williams,23,Other,France,New Customer
+121,Bob,Johnson,62,Male,France,Preferred Customer
+122,Carol,Brown,58,Other,Canada,Preferred Customer
+123,David,Johnson,34,Other,United States,New Customer
+124,Jane,Brown,64,Female,Germany,Frequent Buyer
+125,Bob,Brown,47,Other,Germany,New Customer
+126,John,Williams,32,Female,United Kingdom,New Customer
+127,David,Jones,78,Female,Australia,New Customer
+128,Bob,Williams,36,Male,Germany,New Customer
+129,Carol,Williams,47,Female,United Kingdom,Frequent Buyer
+130,John,Smith,57,Other,United States,New Customer
+131,John,Johnson,26,Male,Australia,Frequent Buyer
+132,David,Johnson,76,Other,United States,New Customer
+133,John,Brown,51,Female,United Kingdom,Frequent Buyer
+134,Alice,Jones,63,Female,United States,New Customer
+135,Carol,Johnson,43,Female,Canada,Preferred Customer
+136,Jane,Johnson,63,Female,Canada,New Customer
+137,John,Jones,54,Other,Canada,New Customer
+138,Carol,Johnson,78,Other,Canada,Preferred Customer
+139,Alice,Smith,52,Male,Canada,Preferred Customer
+140,Alice,Johnson,59,Male,Canada,New Customer
+141,David,Smith,19,Other,Canada,Frequent Buyer
+142,John,Williams,30,Other,Canada,Preferred Customer
+143,Carol,Williams,77,Female,Canada,Preferred Customer
+144,Alice,Smith,60,Female,Canada,Preferred Customer
+145,John,Brown,60,Male,Canada,Preferred Customer
+146,David,Smith,26,Male,Canada,Preferred Customer
+147,Bob,Brown,38,Male,Canada,Preferred Customer
+148,Bob,Jones,58,Other,Canada,New Customer
+149,Bob,Jones,61,Male,Canada,New Customer
+150,Jane,Smith,18,Other,Canada,Preferred Customer
+151,Carol,Brown,37,Other,Canada,Frequent Buyer
+152,David,Williams,66,Male,Canada,Frequent Buyer
+153,Bob,Smith,22,Other,Canada,Frequent Buyer
+154,Alice,Smith,29,Other,Canada,New Customer
+155,Jane,Brown,60,Male,Canada,New Customer
+156,Bob,Jones,38,Male,Canada,New Customer
+157,John,Williams,78,Male,Canada,New Customer
+158,Alice,Brown,65,Male,Canada,Preferred Customer
+159,Jane,Brown,56,Female,Canada,Preferred Customer
+160,Jane,Williams,40,Female,Canada,Frequent Buyer
+161,Alice,Smith,25,Female,Canada,Frequent Buyer
+162,Bob,Smith,39,Male,Canada,Preferred Customer
+163,David,Johnson,43,Female,Canada,Frequent Buyer
+164,David,Williams,36,Male,Canada,New Customer
+165,John,Brown,74,Female,Canada,Frequent Buyer
+166,John,Johnson,32,Other,Canada,New Customer
+167,David,Johnson,54,Male,Canada,Frequent Buyer
+168,David,Johnson,58,Female,Canada,New Customer
+169,John,Smith,38,Female,Canada,Frequent Buyer
+170,Jane,Jones,68,Male,Canada,New Customer
+171,Bob,Johnson,30,Other,Canada,Preferred Customer
+172,David,Brown,24,Female,Canada,Preferred Customer
+173,David,Smith,42,Male,Canada,New Customer
+174,Alice,Jones,50,Female,Canada,Preferred Customer
+175,Carol,Jones,20,Other,Canada,Frequent Buyer
+176,John,Johnson,56,Male,Canada,Preferred Customer
+177,Alice,Johnson,49,Female,Canada,New Customer
+178,David,Smith,58,Female,Canada,Preferred Customer
+179,David,Johnson,53,Male,Canada,Frequent Buyer
+180,Alice,Smith,70,Other,Canada,New Customer
+181,David,Jones,57,Female,Canada,Preferred Customer
+182,John,Brown,69,Other,Canada,Preferred Customer
+183,Carol,Brown,67,Male,Canada,Preferred Customer
+184,Jane,Williams,40,Female,Canada,Frequent Buyer
+185,Jane,Williams,19,Female,Canada,Preferred Customer
+186,Bob,Williams,49,Other,Canada,Frequent Buyer
+187,David,Brown,63,Other,Canada,New Customer
+188,Jane,Johnson,23,Other,Canada,Frequent Buyer
+189,Alice,Smith,24,Male,Canada,Preferred Customer
+190,Jane,Brown,73,Other,Canada,New Customer
+191,Bob,Williams,38,Female,Canada,Preferred Customer
+192,Alice,Williams,50,Male,Canada,Preferred Customer
+193,Alice,Johnson,33,Male,Germany,Frequent Buyer
+194,Carol,Williams,20,Male,Canada,Preferred Customer
+195,David,Williams,43,Female,France,Frequent Buyer
+196,John,Smith,42,Other,United Kingdom,New Customer
+197,John,Johnson,32,Male,United Kingdom,New Customer
+198,John,Jones,39,Male,Canada,New Customer
+199,Bob,Jones,60,Female,Australia,Preferred Customer
+200,Jane,Williams,54,Female,United Kingdom,Frequent Buyer

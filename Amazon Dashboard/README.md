@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://github.com/jeevan499/Power-Bi-Projects-/blob/main/Amazon%20Dashboard/Amazon%20logo.png" alt="HDFC Logo" width="180" height="80" style="float: left; margin-right: 10 px;">
+
   <p> <b>Amazon</b> - Unlocking trends and insights to optimize sales performance in the world's largest online marketplace..</p>
 </div>
 
@@ -97,9 +96,6 @@ The dashboard consists of three main pages:
   
 #### Dashboard
 
-![Amazon Dashboard PDF_page-0001](https://github.com/user-attachments/assets/f0fa1537-d786-44da-b9ee-3dc39c9d9190)
-![Amazon Dashboard PDF_page-0002](https://github.com/user-attachments/assets/2c2e04dc-b959-44eb-bff1-55660e5cdeb4)
-![Amazon Dashboard PDF_page-0003](https://github.com/user-attachments/assets/d413e865-6256-4b67-9e50-0e46b820d609)
 
 #### Conclusion
 
